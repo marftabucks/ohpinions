@@ -1,0 +1,9 @@
+.Featured {
+    width: 100%;
+}
+
+.Card {
+    width: 850px;
+    min-height: 200px;
+    padding: 24px 48px;
+}

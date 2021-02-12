@@ -1,0 +1,7 @@
+.Link,
+.Link:visited,
+.Link:focus {
+    outline: none;
+    width: max-content;
+    cursor: pointer;
+}

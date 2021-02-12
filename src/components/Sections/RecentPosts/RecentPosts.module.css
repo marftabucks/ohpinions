@@ -1,0 +1,13 @@
+.RecentPosts > a {
+    width: 100%;
+}
+
+.RecentPosts > *:not(:last-child) {
+    margin-bottom: 32px;
+}
+
+.Card {
+    width: 100%;
+    min-height: 200px;
+    padding: 24px 48px;
+}

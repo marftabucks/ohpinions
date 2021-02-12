@@ -1,0 +1,13 @@
+.Categories {
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.Card {
+    width: 320px;
+    height: 320px;
+    text-align: center;
+}
