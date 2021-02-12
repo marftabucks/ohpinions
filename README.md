@@ -9,11 +9,11 @@ A fictional discussion platform based on topics posted by users built with React
 
 ## How to Use
 
- 1. Open root file directory and run 'npm install' 
+ 1. Open root file directory and install the dependencies using npm 
 
     ***npm install***
 
- 2. Once the dependencies are installed, run 'npm run start'
+ 2. Once the dependencies are installed, start the development server
  
 
     ***npm run start***
