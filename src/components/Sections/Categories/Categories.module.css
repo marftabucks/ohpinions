@@ -11,3 +11,8 @@
     height: 320px;
     text-align: center;
 }
+
+.Card > div {
+    width: 320px;
+    height: 320px;
+}

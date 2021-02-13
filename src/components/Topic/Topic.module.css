@@ -1,0 +1,37 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Header p {
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.Header span {
+    font-size: .8rem;
+    display: flex;
+    align-items: center;
+}
+
+.Header button {
+    margin-left: 16px;
+}
+
+.Footer {
+    margin-top: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Footer > *:first-child {
+    display: flex;
+    align-items: center;
+}
+
+
+.Footer > *:first-child > *:last-child {
+    margin-left: 1rem;
+}
+

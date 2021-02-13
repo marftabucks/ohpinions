@@ -1,0 +1,9 @@
+.Tag {
+    display: inline-block;
+    font-size: .8rem;
+    background-color: #81b29a;
+    color: white;
+    border-radius: 5px;
+    padding: 3px 8px;
+    margin-right: 7px;
+}

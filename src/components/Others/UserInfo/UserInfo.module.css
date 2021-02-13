@@ -1,0 +1,13 @@
+.UserInfo {
+    font-size: .9rem;
+}
+
+.Author {
+    margin: 0;
+    font-weight: 700;
+}
+
+.Bio {
+    margin-top: .3rem;
+    margin-bottom: 0;
+}

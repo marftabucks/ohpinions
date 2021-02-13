@@ -1,0 +1,13 @@
+.Heading {
+    width: 100%;
+    color: #3d405b;
+    font-weight: 900;
+    font-size: 2rem;
+}
+
+.Subheading {
+    width: 100%;
+    color: rgb(65, 65, 65);
+    font-weight: 700;
+    font-size: 1.5rem;
+}

@@ -8,11 +8,11 @@ class Layout extends Component {
     render() { 
         return ( 
             <Auxiliary>
-                <div>Navbar</div>
+                {/* <div>Navbar</div> */}
                 <main>
                     {this.props.children}
                 </main>
-                <div>Footer</div>
+                {/* <div>Footer</div> */}
             </Auxiliary>
         );
     }
