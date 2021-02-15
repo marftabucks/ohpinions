@@ -1,0 +1,12 @@
+.Button,
+.Button:active {
+    border-radius: 20px;
+    border: none;
+    background-color: #f2cc8f;
+    outline: none;
+    cursor: pointer;
+}
+
+.Round {
+    border-radius: 50%;
+}

@@ -13,12 +13,8 @@
 
 .Card {
     width: 900px;
-    height: max-content;
-    min-height: 250px;
+    height: 300px;
     text-align: left !important;
-}
-
-.Card > div {
     padding: 36px 48px 42px 48px;
 }
 

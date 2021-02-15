@@ -1,0 +1,24 @@
+.Slider {
+    position: relative;
+    width: 100%;
+    display: flex;
+    /* justify-content: center; */
+}
+
+.Slider > button,
+.Slider > button:active {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 40px;
+    width: 40px;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.NextIcon {
+    right: 0;
+}
+
+.Slider > div {
+    margin: 0 auto;
+}

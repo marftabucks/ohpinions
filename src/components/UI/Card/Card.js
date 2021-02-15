@@ -10,18 +10,14 @@ const card = (props) => {
     if (!props.link) {
         return (
             <div className={assignedClasses}>
-                <div className={classes.Blur}>
-                    {props.children}
-                </div>
+                {props.children}
             </div>
         )  
     } else {
         return (
             <Link href={props.link}>
                 <div className={assignedClasses}>
-                    <div className={classes.Blur}>
-                        {props.children}  
-                    </div>
+                    {props.children}  
                 </div>
             </Link>
             
